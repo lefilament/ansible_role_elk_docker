@@ -1,0 +1,6 @@
+---
+kibana_url: "kibana.example.org"
+logstash_port: 5044
+logstash_tls: false
+logstash_tls_crt: ""
+logstash_tls_key: ""
